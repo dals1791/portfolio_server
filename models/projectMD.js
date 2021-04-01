@@ -8,6 +8,7 @@ const projectSchema = new Schema({
     liveLink: String,
     github: String,
     description: String,
+    img: String,
     frontendSkills: [String],
     backendSkills: [String]
 
